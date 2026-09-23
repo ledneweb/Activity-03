@@ -3,4 +3,5 @@ Syncing Github account to VSCode.
 
 Screenshot/Proof 
 
-IMG_20260922_165825_941@1016246997.jpg
+<img width="3200" height="1440" alt="wendel" src="https://github.com/user-attachments/assets/98354808-bd94-4c58-a9e8-c99791c5e807" />
+
